@@ -8,7 +8,7 @@ We need to find the IDs of products that are both low fat and recyclable.
 
     > `SELECT` → This command retrieves data from a database
 
-2. Check if the product is both low fat and recyclable.
+4. Check if the product is both low fat and recyclable.
 
     > `WHERE` → This command filters a result set to include only records that fulfill a specified condition
 
@@ -16,7 +16,7 @@ We need to find the IDs of products that are both low fat and recyclable.
 
     > `AND` → This operator filters records based on more than one condition
 
-3. Return the IDs of products that meet both of these criteria.
+5. Return the IDs of products that meet both of these criteria.
 
 # Complexity
 - Time complexity: $O(n)$
