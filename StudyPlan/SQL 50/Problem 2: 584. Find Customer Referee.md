@@ -8,6 +8,7 @@ We need to find customers who are not referred by the customer with id = 2. This
     > `SELECT` → This command retrieves data from a database
 
 2. Check if they meet the given conditions.
+
     > `WHERE` → This command filters a result set to include only records that fulfill a specified condition
 
     > `<>` / `!=` →  These operators compare if one value is not equal to another value 
