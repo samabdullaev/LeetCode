@@ -6,7 +6,7 @@ Welcome to My LeetCode solutions repository! This repository is dedicated to sto
 
 ### 1. [SQL 50](https://github.com/samabdullaev/LeetCode/tree/main/StudyPlan/SQL%2050)
 
-In this section, you'll find my SQL solutions to LeetCode problems. I've curated a list of 50 SQL problems based on LeetCode's recommended study plan.
+In this section, you will find my SQL solutions to LeetCode problems. I've curated a list of 50 SQL problems based on LeetCode's recommended study plan.
 
 ### 2. [30 Days of JavaScript](https://github.com/samabdullaev/LeetCode/tree/main/StudyPlan/30%20Days%20of%20JavaScript)
 
