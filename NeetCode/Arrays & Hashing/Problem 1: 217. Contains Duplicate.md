@@ -36,7 +36,7 @@ Given an array of numbers, we need to check if any value repeats:
         if n in hashset:
             return True
         ```
-    - If it is not, add the element to the hashset
+    - If it's not, add the element to the hashset
 
         ```
         hashset.add(n)
