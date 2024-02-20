@@ -12,7 +12,7 @@ In this section, you will find my SQL solutions to LeetCode problems. I've curat
 
 This folder contains my solutions to LeetCode problems related to JavaScript, following LeetCode's "30 Days of Code" study plan.
 
-### 2. [NeetCode](https://github.com/samabdullaev/LeetCode/tree/main/NeetCode)
+### 3. [NeetCode](https://github.com/samabdullaev/LeetCode/tree/main/NeetCode)
 
 This folder contains my solutions to LeetCode problems that are suggested in NeetCode.
 
